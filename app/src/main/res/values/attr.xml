@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="lvBackground" format="color" />
+    <attr name="tvBackground" format="color" />
+    <attr name="menu_search" format="string"/>
+    <attr name="menu_delete_all" format="string"/>
+    <attr name="menu_delete" format="string"/>
+    <attr name="toolbarTheme" format="string"/>
+</resources>
