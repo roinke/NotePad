@@ -1,7 +1,7 @@
 # NotePad
 
 #### 介绍
-Android 基本记事本学期作业
+Android 初学
 
 #### 软件架构
 软件架构说明
