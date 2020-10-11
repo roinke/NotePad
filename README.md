@@ -15,4 +15,5 @@ Android 基本记事本学期作业
 #### 个人仓库
 
 2.  个人仓库地址[https://gitee.com/roinke/NotePad](https://gitee.com/roinke/NotePad)
+    个人仓库地址[https://github.com/roinke/NotePad](https://gitee.com/roinke/NotePad)
 
